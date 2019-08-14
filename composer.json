@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/magestore_banner",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Module banner slider renamed",
+    "authors": [
+    {
+        "name": "Magestore",
+        "email": "magestore@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

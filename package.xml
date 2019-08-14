@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>magestore_banner</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Module banner slider renamed</summary>
+    <description>Module banner slider renamed</description>
+    <notes>Banner slider renamed</notes>
+    <authors><author><name>Magestore</name><user>auto-converted</user><email>magestore@gmail.com</email></author></authors>
+    <date>2009-08-29</date>
+    <time>16:08:51</time>
+    <contents><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="banner.xml" hash="2dde54c25c682ce98b28dee3444144af"/></dir></dir></dir></dir><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="banner.xml" hash="ed159617341d54b8dab520c4fe8a7f63"/></dir><dir name="template"><dir name="banner"><file name="banner.phtml" hash="f4559996cb548870e685432a46db947e"/></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="default"><dir name="default"><dir name="banner"><file name="ajaxtabs.js" hash="d8f9c4444580d285972803eed7392b8f"/><file name="banner.css" hash="e4186a5d5d445f618dec0fbbf913ad4b"/></dir></dir></dir></dir></target><target name="magecommunity"><dir name="Magestore"><dir name="Banner"><dir name="Block"><file name="Banner.php" hash="00d030aa4783d16672926dacbe4a0105"/><dir name="Adminhtml"><file name="Banner.php" hash="7a2d16ee3501dd021d0dcf4fcdb8980f"/><dir name="Banner"><file name="Edit.php" hash="53453f0d90c582dfc438546703675559"/><file name="Grid.php" hash="2125182b582f4c68189b7921d055961c"/><dir name="Edit"><file name="Form.php" hash="6e29e5f686a13e81f21530e14443c7ca"/><file name="Tabs.php" hash="4f7291b2839f1ffbb84edb88908e4e38"/><dir name="Tab"><file name="Form.php" hash="46a98ca60f98f314d7213469cb3e1ab4"/></dir></dir></dir></dir></dir><dir name="controllers"><file name="IndexController.php" hash="096b6815481306dc3e24d47cdddfab35"/><dir name="Adminhtml"><file name="BannerController.php" hash="7338ae86621fab4eb35589db93178480"/></dir></dir><dir name="etc"><file name="config.xml" hash="944570e68fb5c8df90ad9dc88ab963d0"/></dir><dir name="Helper"><file name="Data.php" hash="8016a51ab3922da84d5060d0c247858c"/></dir><dir name="Model"><file name="Banner.php" hash="e63cf30dde02e3caa31e5962b92a5372"/><file name="Status.php" hash="04e4b62e5ac7c3fbcac28b352e1dcf9a"/><dir name="Mysql4"><file name="Banner.php" hash="23c679cd0e1555501d1f61821e98576b"/><dir name="Banner"><file name="Collection.php" hash="e39c21689287a9bcfc1b107544b8ccf7"/></dir></dir></dir><dir name="sql"><dir name="banner_setup"><file name="mysql4-install-1.0.0.php" hash="72cd6dbb54c384bd8dc8d1271e076bd1"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Magestore_Banner.xml" hash="50616a2b2a2066845e30351d8afb22db"/></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>
